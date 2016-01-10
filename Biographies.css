@@ -6,65 +6,60 @@ there are definitely some properties you should add!*/
       height: 100%;
     }
     body {
-      background-color: #608f87;
        height: 100%;
     }
 
     header {
-        background-color:#C2667D;
-        text-align: center;
-        padding:5px;
-        font-size:39px ;
-        width: 98%;
-        border: 10px solid #608F87
-    }
 
+      font style: times normal;
+      text-align-last: center;
+      color: blue;
+        background-color:black;
+        padding:5px;
+        font-size: ;
+        display: block;
+        width: 790px;
+    }
     nav {
-        line-height:20px;
-        background-color:#608F87;
+      font style: normal;
+        line-height:
+        background-color:black;
         width:125px;
         display: inline-block;
         vertical-align: top;
+        justify-content: flex-end;
+    }
+    body {
+      background-color: black;
     }
     nav ul {
         list-style-type: none;
     }
     a {
-        color:#EFBF00 ;
+        color: ;
+    }
+    section article {
+      text-align-last: center;
+      color: blue;
     }
     section {
-        width: 80%;
+        width: 516px;
         display: inline-block;
     }
     aside {
-      width: 175px;
-      background-color:#608F87;
+      width: 125px;
       display: inline-block;
       vertical-align: top;
-      font-size:20 ;
+      background-color:;
+      font-size: ;
     }
     aside ul {
         list-style-type: none;
     }
     footer {
-        width: 98%;
-        background-color:#608F87;
-        font-size: 11px;
+        width: 790px;
+        background-color:;
+        text-align:;
         padding:5px;
         display: block;
-        text-align: right;
-    }
-    img{
-      float: left;
-      margin-right: 10px;
-      margin-bottom: 15px;
-    }
-
-    div {display:inline-block
-  }
-
-    .names {font-size: 32px}
-    .insidenames {font-size: 12px}
-    li {
-      font-size: 25px;
     }
