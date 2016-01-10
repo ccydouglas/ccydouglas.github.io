@@ -1,0 +1,68 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+    }
+
+    body {
+       height: 100%;
+    }
+
+    header {
+        background-color:;
+        padding:5px;
+        color:black;
+        font-size: ;
+        margin;
+        display: block;
+        width: 800px;
+        background-image: url("https://files.slack.com/files-tmb/T0ANUU16V-F0J3H8VTK-febe8f14b3/banner_720.jpg");
+    }
+    nav {
+        line-height:;
+        background-color:;
+        width:125px;
+        display: inline-block;
+        vertical-align: top;
+    }
+    nav ul {
+        list-style-type: none;
+    }
+    a {
+        color: ;
+    }
+    section {
+        width: 516px;
+        display: inline-block;
+    }
+    aside {
+      width: 125px;
+      display: inline-block;
+      vertical-align: top;
+      background-color:;
+      font-size: ;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        text-align:;
+        padding:5px;
+        display: block;
+    }
+    ol{
+      color:blue;
+      font-size: xx-large;
+    }
+
+    ol{
+      font-size:
+    }
+.location{
+  font-size: 50px;
+  margin: 0;
+}
